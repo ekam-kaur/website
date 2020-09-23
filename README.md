@@ -1,6 +1,6 @@
 ## Carmel Convent School Chandigarh 
 
-You can register for the admission [here](https://github.com/ekam-kaur/website/edit/master/README.md). 
+You can register for the admission for 2020 [here](https://github.com/ekam-kaur/website/edit/master/README.md). 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
